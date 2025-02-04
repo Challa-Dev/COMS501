@@ -1,0 +1,11 @@
+Change of 9999999 cents:
+999 $100 bills
+1 $50 bills
+2 $20 bills
+0 $10 bills
+1 $5 bills
+4 $1 bills
+3 quarters
+2 dimes
+0 nickels
+4 pennies

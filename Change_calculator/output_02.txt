@@ -1,0 +1,11 @@
+Change of 1 cents:
+0 $100 bills
+0 $50 bills
+0 $20 bills
+0 $10 bills
+0 $5 bills
+0 $1 bills
+0 quarters
+0 dimes
+0 nickels
+1 pennies

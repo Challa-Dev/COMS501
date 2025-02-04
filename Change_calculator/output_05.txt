@@ -1,0 +1,11 @@
+Change of 141 cents:
+0 $100 bills
+0 $50 bills
+0 $20 bills
+0 $10 bills
+0 $5 bills
+1 $1 bills
+1 quarters
+1 dimes
+1 nickels
+1 pennies
