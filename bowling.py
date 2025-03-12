@@ -1,7 +1,7 @@
 #
 #
 # COMS 5010 Programming Assignment
-# Written by Sivaram Challa 442421041
+# Written by Sivaram Challa
 #
 #
 # First we have preprocess the string to remove any unwanted characters except 0123456789/Xx. After that we have calculated the cumulative scores.
